@@ -1,0 +1,15 @@
+1) we need to install the lib: virtualenv
+
+    windows py -m pip install virtualenv
+
+2) then we want to create the virtual enviroment
+
+    pip -m venv nameoffolder(use venv)
+
+3)activate the virtual enviroment
+
+    venv\Scripts\activate
+
+4) to install flask
+
+    py -m install flask
